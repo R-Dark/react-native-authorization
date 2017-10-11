@@ -6,8 +6,8 @@ This was my first forray into React Native and mobile app development. With prio
 is fairly intuitive, but there are key differences in syntax and import libraries that I mostly familiarized myself with
 through building this app. 
 
-Upon loading, this app will redirect to a sign-in screen if no user is detected, then will verify sign-in with Firebase
-user database. It will display error message, and allow a verified user to sign-out.
+Upon loading, this app will redirect to a sign-in screen if no user is detected, verify sign-in with Firebase
+user database, display error message, and allow a verified user to sign-out.
 
 ![login](screenshots/login.png "Description goes here")
 
