@@ -11,7 +11,7 @@ class App extends Component {
     super()
     this.state = {
       loggedIn: null,
-      headerText: "AUTH"
+      headerText: "Firebase Auth App"
     }
   }
 
